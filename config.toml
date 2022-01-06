@@ -1,0 +1,4 @@
+baseURL = 'http://datadrops.dev/'
+languageCode = 'en-us'
+title = 'Datadrops - Data Science, Pet Projects, and More'
+theme='ananke'
