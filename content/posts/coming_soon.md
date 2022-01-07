@@ -5,7 +5,5 @@ draft: false
 author: "Matthew Marshall"
 ---
 
-# Coming Soon
-
-There's not much here now but stay tuned for something new!
+There's not much here now but stay tuned for something exciting soon!
 
