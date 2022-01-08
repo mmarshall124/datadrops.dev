@@ -5,5 +5,5 @@ draft: false
 author: "Matthew Marshall"
 ---
 
-There's not much here now but stay tuned for something exciting soon! TEST
+There's not much here now but stay tuned for something exciting soon!
 
